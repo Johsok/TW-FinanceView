@@ -1,0 +1,47 @@
+name: 從 TW-Finance 同步財報 JSON
+
+on:
+  schedule:
+    - cron: '25 10 * * *'
+    - cron: '25 22 * * *'
+    - cron: '25 3 * * *'
+    - cron: '30 0 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tw-financeview-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 下載網站程式碼
+        uses: actions/checkout@v4
+
+      - name: 拉取爬蟲倉庫最新 JSON
+        run: |
+          set -euo pipefail
+          curl -fsSL -o earnings_data.json \
+            "https://raw.githubusercontent.com/Johsok/TW-Finance/main/earnings_data.json"
+          curl -fsSL -o holidays.json \
+            "https://raw.githubusercontent.com/Johsok/TW-Finance/main/holidays.json"
+          curl -fsSL -o DailyLog.txt \
+            "https://raw.githubusercontent.com/Johsok/TW-Finance/main/DailyLog.txt"
+
+      - name: 提交變更
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add earnings_data.json holidays.json DailyLog.txt
+          if git diff --staged --quiet; then
+            echo "檔案無變更，跳過推送。"
+            exit 0
+          fi
+          git commit -m "Auto update: Sync data from TW-Finance"
+          git push
