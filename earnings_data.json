@@ -1116,7 +1116,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 491.0,
-        "gap": "8/21_2% 8/24_4%",
+        "gap": "8/24_4% 8/26_2%",
         "gross_margin": 24.96
     },
     {
@@ -1256,7 +1256,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 86.0,
-        "gap": "8/21_-2%",
+        "gap": "-",
         "gross_margin": 28.96
     },
     {
@@ -1316,7 +1316,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 33.25,
-        "gap": "-",
+        "gap": "8/26_3%",
         "gross_margin": 13.03
     },
     {
@@ -1476,7 +1476,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 463.0,
-        "gap": "8/21_4% 8/25_-2%",
+        "gap": "8/25_-2%",
         "gross_margin": 30.09
     },
     {
@@ -1536,7 +1536,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 37.75,
-        "gap": "8/21_3%",
+        "gap": "8/26_3%",
         "gross_margin": 100.0
     },
     {
@@ -1936,7 +1936,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 554.0,
-        "gap": "8/21_3% 8/24_-2%",
+        "gap": "8/24_-2%",
         "gross_margin": 47.84
     },
     {
@@ -2216,7 +2216,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 530.0,
-        "gap": "8/21_5%",
+        "gap": "-",
         "gross_margin": 22.02
     },
     {
@@ -2456,7 +2456,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 37.85,
-        "gap": "8/21_2%",
+        "gap": "-",
         "gross_margin": 40.14
     },
     {
@@ -2556,7 +2556,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 62.4,
-        "gap": "-",
+        "gap": "8/26_-2%",
         "gross_margin": 52.39
     },
     {
@@ -2825,9 +2825,9 @@
         "yf_symbol": "2301.TW",
         "name": "光寶科",
         "time": "盤中",
-        "market_cap": "6478.29億",
-        "pe": 33.71,
-        "pb": 6.76,
+        "market_cap": "6977.49億",
+        "pe": 36.3,
+        "pb": 7.28,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -2835,7 +2835,7 @@
         "eps_last_y": 2.05,
         "qoq": "-",
         "yoy": "-",
-        "price": 285.5,
+        "price": 307.5,
         "gap": "-",
         "gross_margin": 27.22
     },
@@ -2845,9 +2845,9 @@
         "yf_symbol": "2351.TW",
         "name": "順德",
         "time": "盤後",
-        "market_cap": "363.25億",
-        "pe": 47.23,
-        "pb": 4.37,
+        "market_cap": "424.28億",
+        "pe": 55.16,
+        "pb": 5.11,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -2855,7 +2855,7 @@
         "eps_last_y": 0.48,
         "qoq": "-",
         "yoy": "-",
-        "price": 187.5,
+        "price": 219.0,
         "gap": "-",
         "gross_margin": 20.72
     },
@@ -2865,9 +2865,9 @@
         "yf_symbol": "2762.TW",
         "name": "世界健身-KY",
         "time": "盤後",
-        "market_cap": "90.87億",
-        "pe": 15.73,
-        "pb": 3.41,
+        "market_cap": "92.84億",
+        "pe": 16.07,
+        "pb": 3.48,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -2875,7 +2875,7 @@
         "eps_last_y": 0.73,
         "qoq": "-",
         "yoy": "-",
-        "price": 83.2,
+        "price": 85.0,
         "gap": "-",
         "gross_margin": 21.78
     },
@@ -2885,9 +2885,9 @@
         "yf_symbol": "2356.TW",
         "name": "英業達",
         "time": "盤中",
-        "market_cap": "2317.51億",
-        "pe": 20.91,
-        "pb": 2.98,
+        "market_cap": "2378.50億",
+        "pe": 21.46,
+        "pb": 3.06,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -2895,8 +2895,48 @@
         "eps_last_y": 0.76,
         "qoq": "-",
         "yoy": "-",
-        "price": 64.6,
+        "price": 66.3,
         "gap": "-",
         "gross_margin": 4.23
+    },
+    {
+        "date": "2026-09-15",
+        "symbol": "3038",
+        "yf_symbol": "3038.TW",
+        "name": "全台",
+        "time": "盤後",
+        "market_cap": "28.74億",
+        "pe": 13.84,
+        "pb": 1.15,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 0.28,
+        "eps_last_y": 0.54,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 20.35,
+        "gap": "-",
+        "gross_margin": 20.86
+    },
+    {
+        "date": "2026-09-15",
+        "symbol": "1590",
+        "yf_symbol": "1590.TW",
+        "name": "亞德客-KY",
+        "time": "盤中",
+        "market_cap": "2930.00億",
+        "pe": 28.18,
+        "pb": 5.35,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 16.55,
+        "eps_last_y": 10.5,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 1465.0,
+        "gap": "-",
+        "gross_margin": 49.72
     }
 ]
