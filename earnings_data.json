@@ -8716,7 +8716,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 140.0,
-        "gap": "9/14_-2%",
+        "gap": "9/17_4%",
         "gross_margin": 25.64
     },
     {
@@ -8736,7 +8736,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 314.5,
-        "gap": "9/14_-5%",
+        "gap": "9/17_3%",
         "gross_margin": 21.95
     },
     {
@@ -8856,7 +8856,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 188.0,
-        "gap": "-",
+        "gap": "9/17_9%",
         "gross_margin": 28.65
     },
     {
@@ -9036,7 +9036,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 635.0,
-        "gap": "9/14_4% 9/15_6%",
+        "gap": "9/15_6%",
         "gross_margin": 60.56
     },
     {
@@ -9216,7 +9216,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 536.0,
-        "gap": "9/14_-3%",
+        "gap": "-",
         "gross_margin": 38.5
     },
     {
@@ -9236,7 +9236,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 1240.0,
-        "gap": "9/14_-2%",
+        "gap": "-",
         "gross_margin": 49.72
     },
     {
@@ -9256,7 +9256,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 115.5,
-        "gap": "9/14_-5%",
+        "gap": "-",
         "gross_margin": 23.45
     },
     {
@@ -9316,7 +9316,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 24.25,
-        "gap": "-",
+        "gap": "9/17_2%",
         "gross_margin": 29.27
     },
     {
@@ -9416,7 +9416,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 6170.0,
-        "gap": "9/14_-2%",
+        "gap": "9/17_2%",
         "gross_margin": 21.55
     },
     {
@@ -9485,9 +9485,9 @@
         "yf_symbol": "2356.TW",
         "name": "英業達",
         "time": "盤中",
-        "market_cap": "2213.47億",
-        "pe": 19.97,
-        "pb": 2.85,
+        "market_cap": "2206.30億",
+        "pe": 19.9,
+        "pb": 2.84,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9495,9 +9495,69 @@
         "eps_last_y": 0.76,
         "qoq": "-",
         "yoy": "-",
-        "price": 61.7,
+        "price": 61.5,
         "gap": "-",
         "gross_margin": 4.23
+    },
+    {
+        "date": "2026-09-24",
+        "symbol": "6691",
+        "yf_symbol": "6691.TW",
+        "name": "洋基工程",
+        "time": "盤後",
+        "market_cap": "809.21億",
+        "pe": 19.55,
+        "pb": 10.91,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 10.93,
+        "eps_last_y": 6.1,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 610.0,
+        "gap": "-",
+        "gross_margin": 18.15
+    },
+    {
+        "date": "2026-09-24",
+        "symbol": "3027",
+        "yf_symbol": "3027.TW",
+        "name": "盛達",
+        "time": "盤後",
+        "market_cap": "22.84億",
+        "pe": 7.9,
+        "pb": 1.03,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": -0.11,
+        "eps_last_y": 0.44,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 17.7,
+        "gap": "-",
+        "gross_margin": 24.4
+    },
+    {
+        "date": "2026-09-29",
+        "symbol": "6235",
+        "yf_symbol": "6235.TW",
+        "name": "華孚",
+        "time": "盤後",
+        "market_cap": "75.96億",
+        "pe": 23.75,
+        "pb": 1.51,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 0.1,
+        "eps_last_y": 0.66,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 38.0,
+        "gap": "-",
+        "gross_margin": 24.66
     },
     {
         "date": "2026-09-30",
@@ -9505,9 +9565,9 @@
         "yf_symbol": "3563.TW",
         "name": "牧德",
         "time": "盤後",
-        "market_cap": "410.63億",
-        "pe": 37.81,
-        "pb": 7.4,
+        "market_cap": "421.50億",
+        "pe": 38.88,
+        "pb": 7.6,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9515,8 +9575,28 @@
         "eps_last_y": 3.86,
         "qoq": "-",
         "yoy": "-",
-        "price": 642.0,
+        "price": 659.0,
         "gap": "-",
         "gross_margin": 60.41
+    },
+    {
+        "date": "2026-10-01",
+        "symbol": "3013",
+        "yf_symbol": "3013.TW",
+        "name": "晟銘電",
+        "time": "盤後",
+        "market_cap": "169.24億",
+        "pe": 15.83,
+        "pb": 3.08,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 1.41,
+        "eps_last_y": 1.06,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 82.5,
+        "gap": "-",
+        "gross_margin": 20.52
     }
 ]
