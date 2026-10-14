@@ -5496,7 +5496,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 36.4,
-        "gap": "10/13_3%",
+        "gap": "-",
         "gross_margin": 4.73
     },
     {
@@ -5516,7 +5516,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 462.0,
-        "gap": "10/13_-5%",
+        "gap": "-",
         "gross_margin": -1506.35
     },
     {
@@ -5596,7 +5596,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 311.0,
-        "gap": "10/13_-4%",
+        "gap": "-",
         "gross_margin": 18.92
     },
     {
@@ -5656,7 +5656,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 106.0,
-        "gap": "10/13_-6%",
+        "gap": "-",
         "gross_margin": 7.75
     },
     {
@@ -5676,7 +5676,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 165.5,
-        "gap": "10/13_-3%",
+        "gap": "-",
         "gross_margin": 25.74
     },
     {
@@ -5696,7 +5696,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 51.5,
-        "gap": "10/13_-3%",
+        "gap": "-",
         "gross_margin": -0.26
     },
     {
@@ -5776,7 +5776,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 369.0,
-        "gap": "10/13_9%",
+        "gap": "-",
         "gross_margin": 37.07
     },
     {
@@ -5796,7 +5796,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 204.0,
-        "gap": "10/13_-3%",
+        "gap": "-",
         "gross_margin": 21.69
     },
     {
@@ -5876,7 +5876,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 13.65,
-        "gap": "10/13_-4%",
+        "gap": "-",
         "gross_margin": 31.96
     },
     {
@@ -5896,7 +5896,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 63.0,
-        "gap": "10/13_-6%",
+        "gap": "-",
         "gross_margin": 24.76
     },
     {
@@ -5936,7 +5936,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 82.8,
-        "gap": "10/13_10%",
+        "gap": "-",
         "gross_margin": 22.72
     },
     {
@@ -6105,9 +6105,9 @@
         "yf_symbol": "4188.TWO",
         "name": "安克",
         "time": "盤後",
-        "market_cap": "8.45億",
+        "market_cap": "8.20億",
         "pe": "-",
-        "pb": 1.64,
+        "pb": 1.59,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -6116,7 +6116,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "10/13_-3%",
+        "gap": "10/6_3%",
         "gross_margin": 36.8
     },
     {
@@ -6125,8 +6125,8 @@
         "yf_symbol": "1731.TW",
         "name": "美吾華",
         "time": "盤後",
-        "market_cap": "27.91億",
-        "pe": 13.91,
+        "market_cap": "27.85億",
+        "pe": 13.87,
         "pb": 1.27,
         "eps_est": "-",
         "eps_reported": "-",
@@ -6145,9 +6145,9 @@
         "yf_symbol": "4108.TW",
         "name": "懷特",
         "time": "盤後",
-        "market_cap": "22.74億",
+        "market_cap": "22.54億",
         "pe": "-",
-        "pb": 1.17,
+        "pb": 1.16,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -6165,9 +6165,9 @@
         "yf_symbol": "5299.TWO",
         "name": "杰力",
         "time": "盤後",
-        "market_cap": "49.16億",
-        "pe": 12.14,
-        "pb": 1.48,
+        "market_cap": "48.09億",
+        "pe": 11.7,
+        "pb": 1.45,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -6176,7 +6176,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "10/13_-2%",
+        "gap": "-",
         "gross_margin": 33.22
     },
     {
@@ -6185,9 +6185,9 @@
         "yf_symbol": "3105.TWO",
         "name": "穩懋",
         "time": "盤後",
-        "market_cap": "2458.85億",
-        "pe": 68.24,
-        "pb": 5.61,
+        "market_cap": "2357.11億",
+        "pe": 65.33,
+        "pb": 5.38,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -6196,7 +6196,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "10/13_-3%",
+        "gap": "-",
         "gross_margin": 28.24
     },
     {
