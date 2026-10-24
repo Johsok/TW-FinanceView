@@ -4597,7 +4597,7 @@
         "yoy": "-",
         "price": 235.0,
         "gap": "-",
-        "gross_margin": 42.83
+        "gross_margin": 43.18
     },
     {
         "date": "2026-11-12",
@@ -4618,5 +4618,45 @@
         "price": 65.8,
         "gap": "-",
         "gross_margin": 12.74
+    },
+    {
+        "date": "2026-11-13",
+        "symbol": "3529",
+        "yf_symbol": "3529.TWO",
+        "name": "力旺",
+        "time": "盤後",
+        "market_cap": "-",
+        "pe": 83.61,
+        "pb": 53.21,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 7.77,
+        "eps_last_y": 6.52,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 2485.0,
+        "gap": "-",
+        "gross_margin": 100.0
+    },
+    {
+        "date": "2026-11-13",
+        "symbol": "7750",
+        "yf_symbol": "7750.TW",
+        "name": "新代",
+        "time": "盤後",
+        "market_cap": "1297.97億",
+        "pe": 30.89,
+        "pb": 9.65,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 27.15,
+        "eps_last_y": 5.66,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 1810.0,
+        "gap": "-",
+        "gross_margin": 44.09
     }
 ]
