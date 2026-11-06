@@ -1,125 +1,5 @@
 [
     {
-        "date": "2026-10-06",
-        "symbol": "3265",
-        "yf_symbol": "3265.TWO",
-        "name": "台星科",
-        "time": "盤後",
-        "market_cap": "265.71億",
-        "pe": 27.46,
-        "pb": 4.21,
-        "eps_est": "-",
-        "eps_reported": "-",
-        "surprise_pct": "-",
-        "eps_last_q": 2.09,
-        "eps_last_y": 1.53,
-        "qoq": "-",
-        "yoy": "-",
-        "price": 195.0,
-        "gap": "-",
-        "gross_margin": 29.37
-    },
-    {
-        "date": "2026-10-06",
-        "symbol": "6257",
-        "yf_symbol": "6257.TW",
-        "name": "矽格",
-        "time": "盤後",
-        "market_cap": "1296.50億",
-        "pe": 31.87,
-        "pb": 5.16,
-        "eps_est": "-",
-        "eps_reported": "-",
-        "surprise_pct": "-",
-        "eps_last_q": 2.55,
-        "eps_last_y": 1.68,
-        "qoq": "-",
-        "yoy": "-",
-        "price": 272.5,
-        "gap": "10/5_5%",
-        "gross_margin": 34.24
-    },
-    {
-        "date": "2026-10-06",
-        "symbol": "9919",
-        "yf_symbol": "9919.TW",
-        "name": "康那香",
-        "time": "盤後",
-        "market_cap": "27.74億",
-        "pe": "-",
-        "pb": 1.49,
-        "eps_est": "-",
-        "eps_reported": "-",
-        "surprise_pct": "-",
-        "eps_last_q": -0.81,
-        "eps_last_y": -0.94,
-        "qoq": "-",
-        "yoy": "-",
-        "price": 14.2,
-        "gap": "-",
-        "gross_margin": 3.77
-    },
-    {
-        "date": "2026-10-06",
-        "symbol": "3516",
-        "yf_symbol": "3516.TWO",
-        "name": "亞帝歐",
-        "time": "盤後",
-        "market_cap": "15.49億",
-        "pe": 42.62,
-        "pb": 0.99,
-        "eps_est": "-",
-        "eps_reported": "-",
-        "surprise_pct": "-",
-        "eps_last_q": 0.36,
-        "eps_last_y": 0.0,
-        "qoq": "-",
-        "yoy": "-",
-        "price": 26.0,
-        "gap": "10/5_2%",
-        "gross_margin": 26.84
-    },
-    {
-        "date": "2026-10-06",
-        "symbol": "1402",
-        "yf_symbol": "1402.TW",
-        "name": "遠東新",
-        "time": "盤後",
-        "market_cap": "1490.56億",
-        "pe": 13.79,
-        "pb": 0.64,
-        "eps_est": "-",
-        "eps_reported": "-",
-        "surprise_pct": "-",
-        "eps_last_q": 0.54,
-        "eps_last_y": 0.42,
-        "qoq": "-",
-        "yoy": "-",
-        "price": 27.85,
-        "gap": "-",
-        "gross_margin": 19.82
-    },
-    {
-        "date": "2026-10-06",
-        "symbol": "8390",
-        "yf_symbol": "8390.TWO",
-        "name": "金益鼎",
-        "time": "盤後",
-        "market_cap": "86.99億",
-        "pe": 10.25,
-        "pb": 2.31,
-        "eps_est": "-",
-        "eps_reported": "-",
-        "surprise_pct": "-",
-        "eps_last_q": 2.29,
-        "eps_last_y": 2.37,
-        "qoq": "-",
-        "yoy": "-",
-        "price": 90.5,
-        "gap": "-",
-        "gross_margin": 25.41
-    },
-    {
         "date": "2026-10-07",
         "symbol": "6174",
         "yf_symbol": "6174.TWO",
@@ -4065,9 +3945,9 @@
         "yf_symbol": "6643.TWO",
         "name": "M31",
         "time": "盤後",
-        "market_cap": "167.04億",
-        "pe": 395.96,
-        "pb": 8.62,
+        "market_cap": "148.08億",
+        "pe": 377.72,
+        "pb": 7.64,
         "eps_est": 1.82,
         "eps_reported": 0.35,
         "surprise_pct": -80.8,
@@ -4075,8 +3955,8 @@
         "eps_last_y": -0.18,
         "qoq": 3133.3,
         "yoy": 1111.1,
-        "price": 392.0,
-        "gap": "11/2_-4% 11/4_2%",
+        "price": 347.5,
+        "gap": "11/4_2% 11/6_-10%",
         "gross_margin": 100.0
     },
     {
@@ -4085,9 +3965,9 @@
         "yf_symbol": "1605.TW",
         "name": "華新",
         "time": "盤後",
-        "market_cap": "1493.36億",
-        "pe": 10.34,
-        "pb": 0.73,
+        "market_cap": "1369.28億",
+        "pe": 9.87,
+        "pb": 0.67,
         "eps_est": 1.82,
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4095,8 +3975,8 @@
         "eps_last_y": 0.17,
         "qoq": 691.3,
         "yoy": 970.6,
-        "price": 33.7,
-        "gap": "-",
+        "price": 30.9,
+        "gap": "11/6_-9%",
         "gross_margin": 7.56
     },
     {
@@ -4116,7 +3996,7 @@
         "qoq": 141.3,
         "yoy": 181.7,
         "price": 3030.0,
-        "gap": "11/4_3%",
+        "gap": "11/4_3% 11/5_-4% 11/6_-10%",
         "gross_margin": 34.84
     },
     {
@@ -4125,9 +4005,9 @@
         "yf_symbol": "5347.TWO",
         "name": "世界",
         "time": "盤後",
-        "market_cap": "2552.06億",
-        "pe": 27.62,
-        "pb": 3.85,
+        "market_cap": "2354.22億",
+        "pe": 28.33,
+        "pb": 3.55,
         "eps_est": 1.59,
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4135,8 +4015,8 @@
         "eps_last_y": 0.91,
         "qoq": 1.9,
         "yoy": 74.7,
-        "price": 129.0,
-        "gap": "11/3_-2% 11/4_3%",
+        "price": 119.0,
+        "gap": "11/4_3% 11/5_-3% 11/6_-10%",
         "gross_margin": 32.32
     },
     {
@@ -4156,7 +4036,7 @@
         "qoq": -4.2,
         "yoy": 57.5,
         "price": 516.0,
-        "gap": "-",
+        "gap": "11/6_-8%",
         "gross_margin": 40.89
     },
     {
@@ -4185,9 +4065,9 @@
         "yf_symbol": "2474.TW",
         "name": "可成",
         "time": "盤後",
-        "market_cap": "962.68億",
-        "pe": 14.02,
-        "pb": 0.74,
+        "market_cap": "906.95億",
+        "pe": 13.14,
+        "pb": 0.7,
         "eps_est": 2.65,
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4195,8 +4075,8 @@
         "eps_last_y": 4.62,
         "qoq": 5.6,
         "yoy": -42.6,
-        "price": 190.0,
-        "gap": "-",
+        "price": 179.0,
+        "gap": "11/6_-7%",
         "gross_margin": 28.86
     },
     {
@@ -4216,7 +4096,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 178.0,
-        "gap": "-",
+        "gap": "11/6_-10%",
         "gross_margin": 38.82
     },
     {
@@ -4225,9 +4105,9 @@
         "yf_symbol": "8299.TWO",
         "name": "群聯",
         "time": "盤後",
-        "market_cap": "3549.70億",
-        "pe": 7.62,
-        "pb": 3.48,
+        "market_cap": "3129.48億",
+        "pe": 7.45,
+        "pb": 3.07,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4235,8 +4115,8 @@
         "eps_last_y": 10.75,
         "qoq": "-",
         "yoy": "-",
-        "price": 1605.0,
-        "gap": "11/2_-5% 11/3_-2% 11/4_3%",
+        "price": 1415.0,
+        "gap": "11/4_3% 11/5_-5% 11/6_-10%",
         "gross_margin": 65.35
     },
     {
@@ -4245,9 +4125,9 @@
         "yf_symbol": "6967.TWO",
         "name": "汎瑋材料",
         "time": "盤後",
-        "market_cap": "19.77億",
-        "pe": 12.79,
-        "pb": 2.0,
+        "market_cap": "18.06億",
+        "pe": 12.23,
+        "pb": 1.93,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4255,8 +4135,8 @@
         "eps_last_y": 1.45,
         "qoq": "-",
         "yoy": "-",
-        "price": 66.1,
-        "gap": "-",
+        "price": 60.4,
+        "gap": "11/6_-5%",
         "gross_margin": 28.74
     },
     {
@@ -4276,7 +4156,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 48.05,
-        "gap": "11/4_3%",
+        "gap": "11/4_3% 11/6_-7%",
         "gross_margin": 22.26
     },
     {
@@ -4285,9 +4165,9 @@
         "yf_symbol": "6180.TWO",
         "name": "橘子",
         "time": "盤後",
-        "market_cap": "66.61億",
+        "market_cap": "65.93億",
         "pe": "-",
-        "pb": 1.61,
+        "pb": 1.65,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4295,8 +4175,8 @@
         "eps_last_y": -1.97,
         "qoq": "-",
         "yoy": "-",
-        "price": 39.3,
-        "gap": "-",
+        "price": 38.9,
+        "gap": "11/5_3% 11/6_-5%",
         "gross_margin": 31.58
     },
     {
@@ -4316,7 +4196,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 623.0,
-        "gap": "11/2_-2% 11/4_2%",
+        "gap": "11/4_2% 11/6_-10%",
         "gross_margin": 32.65
     },
     {
@@ -4336,7 +4216,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 596.0,
-        "gap": "-",
+        "gap": "11/6_-10%",
         "gross_margin": 18.15
     },
     {
@@ -4356,7 +4236,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 250.0,
-        "gap": "-",
+        "gap": "11/6_-9%",
         "gross_margin": 40.41
     },
     {
@@ -4376,7 +4256,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 60.6,
-        "gap": "11/2_-3% 11/3_-2%",
+        "gap": "11/6_-10%",
         "gross_margin": 39.96
     },
     {
@@ -4385,19 +4265,19 @@
         "yf_symbol": "2451.TW",
         "name": "創見",
         "time": "盤後",
-        "market_cap": "1110.72億",
-        "pe": 4.66,
-        "pb": 2.89,
+        "market_cap": "1002.88億",
+        "pe": 4.19,
+        "pb": 2.61,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
-        "eps_last_q": 27.7,
-        "eps_last_y": 3.52,
+        "eps_last_q": 16.11,
+        "eps_last_y": 7.61,
         "qoq": "-",
         "yoy": "-",
-        "price": 257.5,
-        "gap": "11/2_-3%",
-        "gross_margin": 77.03
+        "price": 232.5,
+        "gap": "11/6_-10%",
+        "gross_margin": 56.5
     },
     {
         "date": "2026-11-06",
@@ -4405,9 +4285,9 @@
         "yf_symbol": "3260.TWO",
         "name": "威剛",
         "time": "盤後",
-        "market_cap": "1030.24億",
-        "pe": 3.89,
-        "pb": 2.52,
+        "market_cap": "954.24億",
+        "pe": 3.83,
+        "pb": 2.33,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4415,8 +4295,8 @@
         "eps_last_y": 5.57,
         "qoq": "-",
         "yoy": "-",
-        "price": 305.0,
-        "gap": "11/2_-3%",
+        "price": 282.5,
+        "gap": "11/5_-4% 11/6_-10%",
         "gross_margin": 42.11
     },
     {
@@ -4425,9 +4305,9 @@
         "yf_symbol": "3684.TWO",
         "name": "榮昌",
         "time": "盤後",
-        "market_cap": "14.51億",
-        "pe": 13.31,
-        "pb": 2.12,
+        "market_cap": "13.05億",
+        "pe": 11.93,
+        "pb": 1.9,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4435,8 +4315,8 @@
         "eps_last_y": 1.32,
         "qoq": "-",
         "yoy": "-",
-        "price": 49.5,
-        "gap": "-",
+        "price": 44.5,
+        "gap": "11/6_-8%",
         "gross_margin": 33.18
     },
     {
@@ -4445,9 +4325,9 @@
         "yf_symbol": "1721.TW",
         "name": "國慶科技",
         "time": "盤後",
-        "market_cap": "39.20億",
-        "pe": -22.08,
-        "pb": 2.44,
+        "market_cap": "36.79億",
+        "pe": -20.73,
+        "pb": 2.29,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4455,8 +4335,8 @@
         "eps_last_y": -0.24,
         "qoq": "-",
         "yoy": "-",
-        "price": 21.2,
-        "gap": "11/2_-2%",
+        "price": 19.9,
+        "gap": "11/5_8% 11/6_-10%",
         "gross_margin": -2.08
     },
     {
@@ -4465,9 +4345,9 @@
         "yf_symbol": "2388.TW",
         "name": "威盛",
         "time": "盤後",
-        "market_cap": "311.39億",
-        "pe": 36.09,
-        "pb": 1.45,
+        "market_cap": "276.55億",
+        "pe": 34.86,
+        "pb": 1.29,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4475,8 +4355,8 @@
         "eps_last_y": 0.04,
         "qoq": "-",
         "yoy": "-",
-        "price": 58.1,
-        "gap": "11/4_3%",
+        "price": 51.6,
+        "gap": "11/4_3% 11/6_-10%",
         "gross_margin": 21.71
     },
     {
@@ -4496,8 +4376,68 @@
         "qoq": "-",
         "yoy": "-",
         "price": 348.5,
-        "gap": "11/2_-3% 11/3_-3%",
+        "gap": "11/5_-2% 11/6_-10%",
         "gross_margin": 41.78
+    },
+    {
+        "date": "2026-11-06",
+        "symbol": "1465",
+        "yf_symbol": "1465.TW",
+        "name": "偉全",
+        "time": "盤後",
+        "market_cap": "11.81億",
+        "pe": 20.36,
+        "pb": 0.76,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": -0.09,
+        "eps_last_y": 0.21,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 11.4,
+        "gap": "-",
+        "gross_margin": -4.29
+    },
+    {
+        "date": "2026-11-06",
+        "symbol": "3675",
+        "yf_symbol": "3675.TWO",
+        "name": "德微",
+        "time": "盤中",
+        "market_cap": "106.65億",
+        "pe": 38.58,
+        "pb": 3.48,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 2.4,
+        "eps_last_y": 1.14,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 201.0,
+        "gap": "11/4_3% 11/6_-10%",
+        "gross_margin": 40.4
+    },
+    {
+        "date": "2026-11-06",
+        "symbol": "4972",
+        "yf_symbol": "4972.TWO",
+        "name": "湯石照明",
+        "time": "盤後",
+        "market_cap": "7.96億",
+        "pe": "-",
+        "pb": 0.57,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": -0.68,
+        "eps_last_y": -0.26,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 14.25,
+        "gap": "-",
+        "gross_margin": 21.48
     },
     {
         "date": "2026-11-09",
@@ -4505,9 +4445,9 @@
         "yf_symbol": "2352.TW",
         "name": "佳世達",
         "time": "盤後",
-        "market_cap": "456.77億",
-        "pe": 38.03,
-        "pb": 1.15,
+        "market_cap": "418.04億",
+        "pe": 35.27,
+        "pb": 1.05,
         "eps_est": 0.45,
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4515,8 +4455,8 @@
         "eps_last_y": 0.15,
         "qoq": 18.4,
         "yoy": 200.0,
-        "price": 28.9,
-        "gap": "11/2_-2% 11/3_-3%",
+        "price": 26.45,
+        "gap": "11/6_-9%",
         "gross_margin": 17.27
     },
     {
@@ -4536,7 +4476,7 @@
         "qoq": -2.7,
         "yoy": -32.6,
         "price": 238.5,
-        "gap": "-",
+        "gap": "11/6_-10%",
         "gross_margin": 9.21
     },
     {
@@ -4576,7 +4516,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 106.0,
-        "gap": "11/2_-5% 11/3_-2% 11/4_3%",
+        "gap": "11/4_3% 11/5_-3% 11/6_-10%",
         "gross_margin": 14.02
     },
     {
@@ -4596,7 +4536,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 21.25,
-        "gap": "-",
+        "gap": "11/6_-3%",
         "gross_margin": 14.37
     },
     {
@@ -4605,9 +4545,9 @@
         "yf_symbol": "1337.TW",
         "name": "再生-KY",
         "time": "盤後",
-        "market_cap": "10.70億",
+        "market_cap": "10.52億",
         "pe": "-",
-        "pb": 0.3,
+        "pb": 0.29,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4615,8 +4555,8 @@
         "eps_last_y": -0.44,
         "qoq": "-",
         "yoy": "-",
-        "price": 3.98,
-        "gap": "-",
+        "price": 3.91,
+        "gap": "11/6_-4%",
         "gross_margin": -20.18
     },
     {
@@ -4636,8 +4576,28 @@
         "qoq": "-",
         "yoy": "-",
         "price": 72.6,
-        "gap": "-",
+        "gap": "11/6_-10%",
         "gross_margin": 44.55
+    },
+    {
+        "date": "2026-11-09",
+        "symbol": "6121",
+        "yf_symbol": "6121.TWO",
+        "name": "新普",
+        "time": "盤後",
+        "market_cap": "633.52億",
+        "pe": 10.66,
+        "pb": 1.6,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 9.06,
+        "eps_last_y": 7.87,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 342.5,
+        "gap": "11/6_-8%",
+        "gross_margin": 18.3
     },
     {
         "date": "2026-11-10",
@@ -4656,7 +4616,7 @@
         "qoq": 15.9,
         "yoy": 69.1,
         "price": 2665.0,
-        "gap": "11/2_-3%",
+        "gap": "11/5_-3% 11/6_-10%",
         "gross_margin": 32.57
     },
     {
@@ -4676,7 +4636,7 @@
         "qoq": 15.0,
         "yoy": 67.7,
         "price": 169.5,
-        "gap": "-",
+        "gap": "11/6_-8%",
         "gross_margin": 26.87
     },
     {
@@ -4685,9 +4645,9 @@
         "yf_symbol": "1590.TW",
         "name": "亞德客-KY",
         "time": "盤中",
-        "market_cap": "2100.00億",
-        "pe": 20.18,
-        "pb": 3.83,
+        "market_cap": "2030.00億",
+        "pe": 19.51,
+        "pb": 3.7,
         "eps_est": 14.23,
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4695,8 +4655,8 @@
         "eps_last_y": 10.5,
         "qoq": -14.0,
         "yoy": 35.5,
-        "price": 1050.0,
-        "gap": "11/2_6%",
+        "price": 1015.0,
+        "gap": "11/5_-3% 11/6_-9%",
         "gross_margin": 49.72
     },
     {
@@ -4716,7 +4676,7 @@
         "qoq": 23.2,
         "yoy": 18.1,
         "price": 668.0,
-        "gap": "11/2_-3% 11/3_-2% 11/4_5%",
+        "gap": "11/4_5% 11/5_-3% 11/6_-10%",
         "gross_margin": 49.06
     },
     {
@@ -4736,7 +4696,7 @@
         "qoq": -11.2,
         "yoy": 14.0,
         "price": 1260.0,
-        "gap": "-",
+        "gap": "11/6_-10%",
         "gross_margin": 50.32
     },
     {
@@ -4745,9 +4705,9 @@
         "yf_symbol": "1504.TW",
         "name": "東元",
         "time": "盤後",
-        "market_cap": "1526.84億",
-        "pe": 23.5,
-        "pb": 1.59,
+        "market_cap": "1381.43億",
+        "pe": 21.42,
+        "pb": 1.44,
         "eps_est": 0.75,
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4755,8 +4715,8 @@
         "eps_last_y": 0.75,
         "qoq": -33.0,
         "yoy": 0.0,
-        "price": 65.1,
-        "gap": "-",
+        "price": 58.9,
+        "gap": "11/6_-9%",
         "gross_margin": 25.15
     },
     {
@@ -4765,19 +4725,19 @@
         "yf_symbol": "1476.TW",
         "name": "儒鴻",
         "time": "盤後",
-        "market_cap": "904.04億",
-        "pe": 13.71,
-        "pb": 3.12,
+        "market_cap": "943.82億",
+        "pe": 13.13,
+        "pb": 3.25,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
-        "eps_last_q": 5.66,
-        "eps_last_y": 6.02,
+        "eps_last_q": 6.36,
+        "eps_last_y": 5.77,
         "qoq": "-",
         "yoy": "-",
-        "price": 329.5,
-        "gap": "11/4_2%",
-        "gross_margin": 30.01
+        "price": 344.0,
+        "gap": "11/4_2% 11/5_2% 11/6_-5%",
+        "gross_margin": 31.18
     },
     {
         "date": "2026-11-10",
@@ -4796,7 +4756,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 132.5,
-        "gap": "11/2_-2% 11/3_-3%",
+        "gap": "11/6_-10%",
         "gross_margin": 21.12
     },
     {
@@ -4805,9 +4765,9 @@
         "yf_symbol": "2049.TW",
         "name": "上銀",
         "time": "盤後",
-        "market_cap": "1026.00億",
-        "pe": 43.28,
-        "pb": 2.62,
+        "market_cap": "988.85億",
+        "pe": 45.08,
+        "pb": 2.52,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4815,8 +4775,8 @@
         "eps_last_y": 1.26,
         "qoq": "-",
         "yoy": "-",
-        "price": 290.0,
-        "gap": "11/3_-3%",
+        "price": 279.5,
+        "gap": "11/5_-3% 11/6_-10%",
         "gross_margin": 34.17
     },
     {
@@ -4825,9 +4785,9 @@
         "yf_symbol": "1560.TW",
         "name": "中砂",
         "time": "盤後",
-        "market_cap": "1137.69億",
-        "pe": 63.72,
-        "pb": 12.49,
+        "market_cap": "1000.93億",
+        "pe": 63.01,
+        "pb": 10.99,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4835,8 +4795,8 @@
         "eps_last_y": 2.24,
         "qoq": "-",
         "yoy": "-",
-        "price": 757.0,
-        "gap": "-",
+        "price": 666.0,
+        "gap": "11/6_-10%",
         "gross_margin": 40.05
     },
     {
@@ -4845,9 +4805,9 @@
         "yf_symbol": "5344.TWO",
         "name": "立衛",
         "time": "盤後",
-        "market_cap": "10.37億",
-        "pe": 326.25,
-        "pb": 2.07,
+        "market_cap": "9.30億",
+        "pe": 325.0,
+        "pb": 2.36,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4855,8 +4815,8 @@
         "eps_last_y": 0.0,
         "qoq": "-",
         "yoy": "-",
-        "price": 13.05,
-        "gap": "-",
+        "price": 11.7,
+        "gap": "11/6_-5%",
         "gross_margin": 13.13
     },
     {
@@ -4876,7 +4836,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 49.7,
-        "gap": "11/4_3%",
+        "gap": "11/4_3% 11/6_-10%",
         "gross_margin": 12.28
     },
     {
@@ -4885,9 +4845,9 @@
         "yf_symbol": "6894.TWO",
         "name": "衛司特",
         "time": "盤後",
-        "market_cap": "82.82億",
-        "pe": 22.75,
-        "pb": 5.02,
+        "market_cap": "74.97億",
+        "pe": 22.63,
+        "pb": 4.54,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4895,8 +4855,8 @@
         "eps_last_y": 3.23,
         "qoq": "-",
         "yoy": "-",
-        "price": 348.0,
-        "gap": "11/4_3%",
+        "price": 315.0,
+        "gap": "11/4_3% 11/5_-3% 11/6_-10%",
         "gross_margin": 37.07
     },
     {
@@ -4905,9 +4865,9 @@
         "yf_symbol": "4772.TWO",
         "name": "台特化",
         "time": "盤中",
-        "market_cap": "313.08億",
-        "pe": 38.13,
-        "pb": 8.42,
+        "market_cap": "279.86億",
+        "pe": 35.82,
+        "pb": 7.52,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4915,8 +4875,8 @@
         "eps_last_y": 1.51,
         "qoq": "-",
         "yoy": "-",
-        "price": 212.0,
-        "gap": "11/2_-3% 11/3_-3%",
+        "price": 189.5,
+        "gap": "11/6_-10%",
         "gross_margin": 52.01
     },
     {
@@ -4925,9 +4885,9 @@
         "yf_symbol": "5483.TWO",
         "name": "中美晶",
         "time": "盤中",
-        "market_cap": "955.04億",
-        "pe": 16.87,
-        "pb": 1.87,
+        "market_cap": "841.42億",
+        "pe": 15.93,
+        "pb": 1.65,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4935,8 +4895,8 @@
         "eps_last_y": 1.71,
         "qoq": "-",
         "yoy": "-",
-        "price": 155.5,
-        "gap": "11/2_-3% 11/3_-3% 11/4_3%",
+        "price": 137.0,
+        "gap": "11/4_3% 11/6_-10%",
         "gross_margin": 22.65
     },
     {
@@ -4945,9 +4905,9 @@
         "yf_symbol": "6488.TWO",
         "name": "環球晶",
         "time": "盤中",
-        "market_cap": "3073.62億",
-        "pe": 31.31,
-        "pb": 2.88,
+        "market_cap": "2703.94億",
+        "pe": 27.32,
+        "pb": 2.53,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4955,9 +4915,49 @@
         "eps_last_y": 4.12,
         "qoq": "-",
         "yoy": "-",
-        "price": 582.0,
-        "gap": "11/2_-2% 11/3_-3%",
+        "price": 512.0,
+        "gap": "11/5_-3% 11/6_-10%",
         "gross_margin": 20.64
+    },
+    {
+        "date": "2026-11-10",
+        "symbol": "2483",
+        "yf_symbol": "2483.TW",
+        "name": "百容",
+        "time": "盤後",
+        "market_cap": "30.40億",
+        "pe": 123.04,
+        "pb": 1.11,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 0.25,
+        "eps_last_y": -0.07,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 28.3,
+        "gap": "11/4_4% 11/5_3% 11/6_-9%",
+        "gross_margin": 14.98
+    },
+    {
+        "date": "2026-11-10",
+        "symbol": "2327",
+        "yf_symbol": "2327.TW",
+        "name": "國巨*",
+        "time": "盤後",
+        "market_cap": "7564.84億",
+        "pe": 27.47,
+        "pb": 4.27,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 4.59,
+        "eps_last_y": 3.1,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 367.5,
+        "gap": "11/4_3% 11/5_-3% 11/6_-10%",
+        "gross_margin": 38.5
     },
     {
         "date": "2026-11-11",
@@ -4965,9 +4965,9 @@
         "yf_symbol": "2382.TW",
         "name": "廣達",
         "time": "盤後",
-        "market_cap": "1.25兆",
-        "pe": 14.19,
-        "pb": 4.81,
+        "market_cap": "1.17兆",
+        "pe": 13.0,
+        "pb": 4.5,
         "eps_est": 7.15,
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -4975,8 +4975,8 @@
         "eps_last_y": 4.15,
         "qoq": 1.0,
         "yoy": 72.3,
-        "price": 304.0,
-        "gap": "-",
+        "price": 284.5,
+        "gap": "11/6_-8%",
         "gross_margin": 5.02
     },
     {
@@ -4996,7 +4996,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 184.5,
-        "gap": "11/2_-3% 11/4_2%",
+        "gap": "11/4_2% 11/6_-10%",
         "gross_margin": 37.1
     },
     {
@@ -5016,7 +5016,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 346.0,
-        "gap": "-",
+        "gap": "11/6_-9%",
         "gross_margin": 19.32
     },
     {
@@ -5036,7 +5036,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 1220.0,
-        "gap": "-",
+        "gap": "11/6_-9%",
         "gross_margin": 94.23
     },
     {
@@ -5056,7 +5056,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 788.0,
-        "gap": "11/2_-4% 11/3_-2%",
+        "gap": "11/5_-5% 11/6_-10%",
         "gross_margin": 44.2
     },
     {
@@ -5076,7 +5076,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 29.8,
-        "gap": "11/4_4%",
+        "gap": "11/4_4% 11/6_-10%",
         "gross_margin": 26.9
     },
     {
@@ -5096,7 +5096,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 1240.0,
-        "gap": "11/2_-3% 11/4_3%",
+        "gap": "11/4_3% 11/6_-10%",
         "gross_margin": 67.73
     },
     {
@@ -5105,19 +5105,19 @@
         "yf_symbol": "2103.TW",
         "name": "台橡",
         "time": "盤後",
-        "market_cap": "215.51億",
-        "pe": 10.57,
-        "pb": 0.98,
+        "market_cap": "190.33億",
+        "pe": 9.37,
+        "pb": 0.86,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
-        "eps_last_q": 1.73,
-        "eps_last_y": -0.1,
+        "eps_last_q": 0.26,
+        "eps_last_y": 0.32,
         "qoq": "-",
         "yoy": "-",
-        "price": 26.1,
-        "gap": "-",
-        "gross_margin": 21.15
+        "price": 23.05,
+        "gap": "11/5_2% 11/6_-10%",
+        "gross_margin": 10.44
     },
     {
         "date": "2026-11-11",
@@ -5125,9 +5125,9 @@
         "yf_symbol": "6620.TWO",
         "name": "漢達",
         "time": "盤後",
-        "market_cap": "163.34億",
-        "pe": 36.41,
-        "pb": 3.25,
+        "market_cap": "147.09億",
+        "pe": 32.79,
+        "pb": 2.93,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5135,9 +5135,29 @@
         "eps_last_y": 1.34,
         "qoq": "-",
         "yoy": "-",
-        "price": 100.5,
-        "gap": "11/2_-3%",
+        "price": 90.5,
+        "gap": "11/5_-10% 11/6_-10%",
         "gross_margin": 79.89
+    },
+    {
+        "date": "2026-11-11",
+        "symbol": "2397",
+        "yf_symbol": "2397.TW",
+        "name": "友通",
+        "time": "盤後",
+        "market_cap": "60.56億",
+        "pe": 20.19,
+        "pb": 1.8,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 1.29,
+        "eps_last_y": 0.01,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 52.9,
+        "gap": "11/6_-9%",
+        "gross_margin": 26.18
     },
     {
         "date": "2026-11-12",
@@ -5145,9 +5165,9 @@
         "yf_symbol": "2357.TW",
         "name": "華碩",
         "time": "盤後",
-        "market_cap": "6439.73億",
-        "pe": 12.78,
-        "pb": 2.14,
+        "market_cap": "6187.19億",
+        "pe": 12.42,
+        "pb": 2.05,
         "eps_est": 20.89,
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5155,8 +5175,8 @@
         "eps_last_y": 13.16,
         "qoq": -18.2,
         "yoy": 58.7,
-        "price": NaN,
-        "gap": "-",
+        "price": 833.0,
+        "gap": "11/6_-7%",
         "gross_margin": 17.17
     },
     {
@@ -5176,7 +5196,7 @@
         "qoq": 21.5,
         "yoy": 23.8,
         "price": NaN,
-        "gap": "-",
+        "gap": "11/6_-4%",
         "gross_margin": 66.16
     },
     {
@@ -5185,9 +5205,9 @@
         "yf_symbol": "2317.TW",
         "name": "鴻海",
         "time": "盤後",
-        "market_cap": "3.31兆",
-        "pe": 15.61,
-        "pb": 1.73,
+        "market_cap": "3.09兆",
+        "pe": 14.89,
+        "pb": 1.61,
         "eps_est": 5.01,
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5195,8 +5215,8 @@
         "eps_last_y": 4.15,
         "qoq": 18.2,
         "yoy": 20.7,
-        "price": NaN,
-        "gap": "-",
+        "price": 219.5,
+        "gap": "11/6_-9%",
         "gross_margin": 6.12
     },
     {
@@ -5225,9 +5245,9 @@
         "yf_symbol": "1504.TW",
         "name": "東元",
         "time": "盤後",
-        "market_cap": "1486.50億",
-        "pe": 22.48,
-        "pb": 1.55,
+        "market_cap": "1381.43億",
+        "pe": 21.42,
+        "pb": 1.44,
         "eps_est": 0.75,
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5235,8 +5255,8 @@
         "eps_last_y": 0.75,
         "qoq": -33.0,
         "yoy": 0.0,
-        "price": NaN,
-        "gap": "-",
+        "price": 58.9,
+        "gap": "11/6_-9%",
         "gross_margin": 25.15
     },
     {
@@ -5256,7 +5276,7 @@
         "qoq": -9.6,
         "yoy": -10.7,
         "price": NaN,
-        "gap": "-",
+        "gap": "11/6_-9%",
         "gross_margin": 4.43
     },
     {
@@ -5265,9 +5285,9 @@
         "yf_symbol": "2385.TW",
         "name": "群光",
         "time": "盤後",
-        "market_cap": "674.63億",
-        "pe": 10.46,
-        "pb": 1.52,
+        "market_cap": "629.51億",
+        "pe": 9.92,
+        "pb": 1.41,
         "eps_est": 1.38,
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5275,8 +5295,8 @@
         "eps_last_y": 2.87,
         "qoq": -54.9,
         "yoy": -51.9,
-        "price": NaN,
-        "gap": "-",
+        "price": 86.5,
+        "gap": "11/6_-7%",
         "gross_margin": 13.62
     },
     {
@@ -5296,7 +5316,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "11/4_3%",
+        "gap": "11/4_3% 11/6_-5%",
         "gross_margin": 43.18
     },
     {
@@ -5305,9 +5325,9 @@
         "yf_symbol": "2015.TW",
         "name": "豐興",
         "time": "盤後",
-        "market_cap": "368.73億",
-        "pe": 15.13,
-        "pb": 1.63,
+        "market_cap": "362.92億",
+        "pe": 14.89,
+        "pb": 1.61,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5315,7 +5335,7 @@
         "eps_last_y": 0.94,
         "qoq": "-",
         "yoy": "-",
-        "price": NaN,
+        "price": 62.4,
         "gap": "-",
         "gross_margin": 11.2
     },
@@ -5336,7 +5356,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "11/2_-2% 11/4_2%",
+        "gap": "11/4_2% 11/6_-10%",
         "gross_margin": 32.65
     },
     {
@@ -5345,9 +5365,9 @@
         "yf_symbol": "5289.TWO",
         "name": "宜鼎",
         "time": "盤中",
-        "market_cap": "928.83億",
-        "pe": 5.37,
-        "pb": 3.99,
+        "market_cap": "874.77億",
+        "pe": 5.41,
+        "pb": 3.76,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5355,8 +5375,8 @@
         "eps_last_y": 6.87,
         "qoq": "-",
         "yoy": "-",
-        "price": NaN,
-        "gap": "11/2_-4% 11/3_-3% 11/4_3%",
+        "price": 890.0,
+        "gap": "11/4_3% 11/6_-10%",
         "gross_margin": 65.01
     },
     {
@@ -5365,9 +5385,9 @@
         "yf_symbol": "4971.TWO",
         "name": "IET-KY",
         "time": "盤後",
-        "market_cap": "142.95億",
-        "pe": 77.38,
-        "pb": 3.82,
+        "market_cap": "128.75億",
+        "pe": 77.4,
+        "pb": 3.44,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5375,8 +5395,8 @@
         "eps_last_y": 0.75,
         "qoq": "-",
         "yoy": "-",
-        "price": NaN,
-        "gap": "11/2_-2% 11/3_-3%",
+        "price": 322.0,
+        "gap": "11/5_-4% 11/6_-10%",
         "gross_margin": 34.0
     },
     {
@@ -5385,9 +5405,9 @@
         "yf_symbol": "6259.TWO",
         "name": "百徽",
         "time": "盤後",
-        "market_cap": "6.62億",
-        "pe": 15.84,
-        "pb": 1.58,
+        "market_cap": "6.16億",
+        "pe": 15.46,
+        "pb": 1.47,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5395,8 +5415,8 @@
         "eps_last_y": 0.23,
         "qoq": "-",
         "yoy": "-",
-        "price": NaN,
-        "gap": "-",
+        "price": 21.95,
+        "gap": "11/6_-10%",
         "gross_margin": 22.22
     },
     {
@@ -5405,9 +5425,9 @@
         "yf_symbol": "6435.TWO",
         "name": "大中",
         "time": "盤後",
-        "market_cap": "69.68億",
-        "pe": 14.13,
-        "pb": 3.11,
+        "market_cap": "64.43億",
+        "pe": 13.98,
+        "pb": 2.87,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5415,8 +5435,8 @@
         "eps_last_y": 2.63,
         "qoq": "-",
         "yoy": "-",
-        "price": NaN,
-        "gap": "-",
+        "price": 172.0,
+        "gap": "11/5_-2% 11/6_-10%",
         "gross_margin": 27.94
     },
     {
@@ -5425,9 +5445,9 @@
         "yf_symbol": "8069.TWO",
         "name": "元太",
         "time": "盤後",
-        "market_cap": "1628.10億",
-        "pe": 13.8,
-        "pb": 2.15,
+        "market_cap": "1587.68億",
+        "pe": 13.79,
+        "pb": 2.1,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5435,8 +5455,8 @@
         "eps_last_y": 3.67,
         "qoq": "-",
         "yoy": "-",
-        "price": NaN,
-        "gap": "-",
+        "price": 137.5,
+        "gap": "11/6_-8%",
         "gross_margin": 58.72
     },
     {
@@ -5445,9 +5465,9 @@
         "yf_symbol": "2066.TWO",
         "name": "世德",
         "time": "盤後",
-        "market_cap": "21.63億",
-        "pe": 13.95,
-        "pb": 1.0,
+        "market_cap": "20.02億",
+        "pe": 12.91,
+        "pb": 0.93,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5455,8 +5475,8 @@
         "eps_last_y": 0.72,
         "qoq": "-",
         "yoy": "-",
-        "price": NaN,
-        "gap": "-",
+        "price": 45.3,
+        "gap": "11/6_-8%",
         "gross_margin": 33.85
     },
     {
@@ -5465,9 +5485,9 @@
         "yf_symbol": "2457.TW",
         "name": "飛宏",
         "time": "盤後",
-        "market_cap": "77.52億",
+        "market_cap": "72.42億",
         "pe": "-",
-        "pb": 0.87,
+        "pb": 0.82,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5475,8 +5495,8 @@
         "eps_last_y": 0.13,
         "qoq": "-",
         "yoy": "-",
-        "price": NaN,
-        "gap": "-",
+        "price": 17.05,
+        "gap": "11/6_-10%",
         "gross_margin": 23.86
     },
     {
@@ -5496,7 +5516,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/6_-5%",
         "gross_margin": 26.99
     },
     {
@@ -5516,7 +5536,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "11/2_-5% 11/3_-2% 11/4_2%",
+        "gap": "11/4_2% 11/5_-2% 11/6_-10%",
         "gross_margin": -0.13
     },
     {
@@ -5525,9 +5545,9 @@
         "yf_symbol": "3122.TWO",
         "name": "笙泉",
         "time": "盤後",
-        "market_cap": "8.21億",
+        "market_cap": "7.54億",
         "pe": "-",
-        "pb": 2.27,
+        "pb": 2.08,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5535,8 +5555,8 @@
         "eps_last_y": -0.31,
         "qoq": "-",
         "yoy": "-",
-        "price": NaN,
-        "gap": "11/3_-2% 11/4_-4%",
+        "price": 18.5,
+        "gap": "11/4_-4% 11/6_-8%",
         "gross_margin": 32.48
     },
     {
@@ -5545,9 +5565,9 @@
         "yf_symbol": "3290.TWO",
         "name": "東浦",
         "time": "盤後",
-        "market_cap": "41.00億",
-        "pe": 7.82,
-        "pb": 1.64,
+        "market_cap": "38.25億",
+        "pe": 7.5,
+        "pb": 1.53,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5555,8 +5575,8 @@
         "eps_last_y": 1.02,
         "qoq": "-",
         "yoy": "-",
-        "price": NaN,
-        "gap": "-",
+        "price": 42.4,
+        "gap": "11/6_-10%",
         "gross_margin": 24.74
     },
     {
@@ -5565,9 +5585,9 @@
         "yf_symbol": "3227.TWO",
         "name": "原相",
         "time": "盤後",
-        "market_cap": "264.33億",
-        "pe": 14.61,
-        "pb": 1.75,
+        "market_cap": "255.21億",
+        "pe": 14.38,
+        "pb": 1.69,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -5575,8 +5595,8 @@
         "eps_last_y": 3.01,
         "qoq": "-",
         "yoy": "-",
-        "price": NaN,
-        "gap": "-",
+        "price": 168.0,
+        "gap": "11/6_-10%",
         "gross_margin": 58.21
     },
     {
@@ -5596,7 +5616,7 @@
         "qoq": -29.2,
         "yoy": 61.3,
         "price": NaN,
-        "gap": "11/3_-3%",
+        "gap": "11/5_-3% 11/6_-10%",
         "gross_margin": 47.03
     },
     {
@@ -5616,7 +5636,7 @@
         "qoq": 28.2,
         "yoy": 44.3,
         "price": NaN,
-        "gap": "11/2_-2% 11/3_-3%",
+        "gap": "11/6_-10%",
         "gross_margin": 30.73
     },
     {
@@ -5636,7 +5656,7 @@
         "qoq": 11.3,
         "yoy": -5.0,
         "price": NaN,
-        "gap": "11/2_-3% 11/4_3%",
+        "gap": "11/4_3% 11/5_-2% 11/6_-10%",
         "gross_margin": 45.47
     },
     {
@@ -5656,7 +5676,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "11/2_-4%",
+        "gap": "11/6_-10%",
         "gross_margin": 100.0
     },
     {
@@ -5676,7 +5696,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "11/2_-3% 11/3_-7% 11/4_-2%",
+        "gap": "11/4_-2% 11/6_-10%",
         "gross_margin": 44.09
     },
     {
@@ -5696,7 +5716,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "11/2_-4% 11/3_-3% 11/4_3%",
+        "gap": "11/4_3% 11/6_-10%",
         "gross_margin": 65.01
     },
     {
@@ -5716,7 +5736,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/6_-9%",
         "gross_margin": 94.23
     },
     {
@@ -5736,7 +5756,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/6_-7%",
         "gross_margin": 31.69
     },
     {
@@ -5756,7 +5776,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "11/2_-5% 11/3_-3% 11/4_6%",
+        "gap": "11/4_6% 11/5_-5% 11/6_-10%",
         "gross_margin": 35.98
     },
     {
@@ -5776,7 +5796,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "11/2_-4%",
+        "gap": "11/5_-3% 11/6_-10%",
         "gross_margin": 22.99
     },
     {
@@ -5796,7 +5816,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "11/4_5%",
+        "gap": "11/4_5% 11/6_-9%",
         "gross_margin": 31.55
     },
     {
@@ -5816,7 +5836,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/6_-5%",
         "gross_margin": 14.19
     },
     {
@@ -5836,7 +5856,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/5_4% 11/6_-7%",
         "gross_margin": 53.68
     },
     {
@@ -5876,7 +5896,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/5_2% 11/6_-9%",
         "gross_margin": 41.26
     },
     {
@@ -5896,7 +5916,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/5_3% 11/6_-10%",
         "gross_margin": 25.91
     },
     {
@@ -5936,7 +5956,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/6_-3%",
         "gross_margin": 29.6
     },
     {
@@ -5956,7 +5976,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/6_-7%",
         "gross_margin": 42.65
     },
     {
@@ -5976,7 +5996,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/5_-6% 11/6_-10%",
         "gross_margin": 28.24
     },
     {
@@ -5996,7 +6016,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/4_7% 11/5_10% 11/6_-10%",
         "gross_margin": 21.1
     },
     {
@@ -6016,7 +6036,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/6_-10%",
         "gross_margin": 42.91
     },
     {
@@ -6036,7 +6056,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/6_-10%",
         "gross_margin": 38.96
     },
     {
@@ -6056,7 +6076,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/6_-3%",
         "gross_margin": 14.03
     },
     {
@@ -6076,7 +6096,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/6_-6%",
         "gross_margin": 0.88
     },
     {
@@ -6096,7 +6116,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "-",
+        "gap": "11/6_-3%",
         "gross_margin": 14.58
     },
     {
