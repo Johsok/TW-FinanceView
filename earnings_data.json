@@ -5550,7 +5550,7 @@
         "pb": 0.97,
         "eps_est": 3.22,
         "eps_reported": 2.89,
-        "surprise_pct": "-",
+        "surprise_pct": -10.16,
         "eps_last_q": 2.65,
         "eps_last_y": 2.6,
         "qoq": 21.5,
@@ -5569,8 +5569,8 @@
         "pe": 16.08,
         "pb": 1.78,
         "eps_est": 4.94,
-        "eps_reported": "-",
-        "surprise_pct": "-",
+        "eps_reported": 5.51,
+        "surprise_pct": 2.04,
         "eps_last_q": 4.24,
         "eps_last_y": 4.15,
         "qoq": 16.5,
@@ -5829,8 +5829,8 @@
         "pe": 15.5,
         "pb": 3.49,
         "eps_est": "-",
-        "eps_reported": "-",
-        "surprise_pct": "-",
+        "eps_reported": 3.86,
+        "surprise_pct": -15.35,
         "eps_last_q": 3.68,
         "eps_last_y": 2.63,
         "qoq": "-",
@@ -6576,7 +6576,7 @@
         "qoq": 7.1,
         "yoy": 882.6,
         "price": 136.0,
-        "gap": "11/11_6% 11/13_4%",
+        "gap": "11/11_6%",
         "gross_margin": 89.31
     },
     {
@@ -6596,7 +6596,7 @@
         "qoq": 24.8,
         "yoy": 606.4,
         "price": 260.0,
-        "gap": "11/11_3%",
+        "gap": "11/10_2% 11/11_3%",
         "gross_margin": 20.59
     },
     {
@@ -6616,7 +6616,7 @@
         "qoq": 2200.0,
         "yoy": 320.0,
         "price": 21.0,
-        "gap": "11/13_2%",
+        "gap": "-",
         "gross_margin": 23.67
     },
     {
@@ -6636,7 +6636,7 @@
         "qoq": -3.6,
         "yoy": 106.7,
         "price": 1520.0,
-        "gap": "11/13_2%",
+        "gap": "-",
         "gross_margin": 44.44
     },
     {
@@ -6676,7 +6676,7 @@
         "qoq": 21.1,
         "yoy": 96.2,
         "price": 124.0,
-        "gap": "11/13_3%",
+        "gap": "11/10_4%",
         "gross_margin": 37.28
     },
     {
@@ -6716,7 +6716,7 @@
         "qoq": -18.1,
         "yoy": 49.0,
         "price": 176.5,
-        "gap": "11/11_4% 11/13_2%",
+        "gap": "11/10_4% 11/11_4%",
         "gross_margin": 31.23
     },
     {
@@ -6736,7 +6736,7 @@
         "qoq": 28.2,
         "yoy": 44.3,
         "price": 1535.0,
-        "gap": "-",
+        "gap": "11/10_6%",
         "gross_margin": 30.73
     },
     {
@@ -6796,7 +6796,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 460.0,
-        "gap": "11/13_3%",
+        "gap": "11/10_4%",
         "gross_margin": 47.42
     },
     {
@@ -6816,7 +6816,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 1890.0,
-        "gap": "11/13_5%",
+        "gap": "-",
         "gross_margin": 45.47
     },
     {
@@ -6836,7 +6836,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 2380.0,
-        "gap": "11/13_5%",
+        "gap": "11/10_5%",
         "gross_margin": 100.0
     },
     {
@@ -6856,7 +6856,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 976.0,
-        "gap": "11/13_3%",
+        "gap": "11/10_2%",
         "gross_margin": 49.47
     },
     {
@@ -6876,7 +6876,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 526.0,
-        "gap": "11/13_4%",
+        "gap": "11/10_5%",
         "gross_margin": 43.23
     },
     {
@@ -6896,7 +6896,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 94.6,
-        "gap": "11/11_2% 11/13_4%",
+        "gap": "11/10_2% 11/11_2%",
         "gross_margin": 26.16
     },
     {
@@ -6936,7 +6936,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 70.6,
-        "gap": "-",
+        "gap": "11/10_3%",
         "gross_margin": 15.2
     },
     {
@@ -6956,7 +6956,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 149.5,
-        "gap": "11/11_-4% 11/13_-3%",
+        "gap": "11/11_-4%",
         "gross_margin": 53.68
     },
     {
@@ -7016,7 +7016,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 63.2,
-        "gap": "-",
+        "gap": "11/10_2%",
         "gross_margin": 25.91
     },
     {
@@ -7036,7 +7036,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 135.5,
-        "gap": "-",
+        "gap": "11/10_4%",
         "gross_margin": 32.69
     },
     {
@@ -7049,14 +7049,14 @@
         "pe": 34.45,
         "pb": 2.95,
         "eps_est": "-",
-        "eps_reported": "-",
-        "surprise_pct": "-",
+        "eps_reported": -0.58,
+        "surprise_pct": -18.37,
         "eps_last_q": -1.34,
         "eps_last_y": 0.17,
         "qoq": "-",
         "yoy": "-",
         "price": 249.5,
-        "gap": "11/13_6%",
+        "gap": "11/10_2%",
         "gross_margin": 99.86
     },
     {
@@ -7076,7 +7076,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 2140.0,
-        "gap": "-",
+        "gap": "11/10_10%",
         "gross_margin": 58.56
     },
     {
@@ -7116,7 +7116,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 418.0,
-        "gap": "11/11_3% 11/13_3%",
+        "gap": "11/10_5% 11/11_3%",
         "gross_margin": 38.5
     },
     {
@@ -7136,7 +7136,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 168.0,
-        "gap": "-",
+        "gap": "11/10_5%",
         "gross_margin": 34.12
     },
     {
@@ -7176,7 +7176,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 34.55,
-        "gap": "11/13_10%",
+        "gap": "11/10_-3%",
         "gross_margin": 24.0
     },
     {
@@ -7196,7 +7196,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 993.0,
-        "gap": "11/13_4%",
+        "gap": "11/10_3%",
         "gross_margin": 36.93
     },
     {
@@ -7236,7 +7236,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 1770.0,
-        "gap": "-",
+        "gap": "11/10_7%",
         "gross_margin": 38.86
     },
     {
@@ -7256,7 +7256,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 185.0,
-        "gap": "11/11_3% 11/13_2%",
+        "gap": "11/11_3%",
         "gross_margin": 47.41
     },
     {
@@ -7296,7 +7296,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 38.3,
-        "gap": "11/11_-2% 11/13_3%",
+        "gap": "11/11_-2%",
         "gross_margin": 28.48
     },
     {
@@ -7316,7 +7316,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 1485.0,
-        "gap": "11/13_3%",
+        "gap": "11/10_7%",
         "gross_margin": 26.0
     },
     {
@@ -7336,7 +7336,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 121.0,
-        "gap": "11/12_3% 11/13_3%",
+        "gap": "11/12_3%",
         "gross_margin": 42.55
     },
     {
@@ -7356,7 +7356,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 987.0,
-        "gap": "11/13_4%",
+        "gap": "11/10_7%",
         "gross_margin": 48.46
     },
     {
@@ -7376,7 +7376,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 29.0,
-        "gap": "11/13_2%",
+        "gap": "11/10_2%",
         "gross_margin": 100.0
     },
     {
@@ -7429,8 +7429,8 @@
         "pe": 10.9,
         "pb": 2.98,
         "eps_est": "-",
-        "eps_reported": "-",
-        "surprise_pct": "-",
+        "eps_reported": 0.57,
+        "surprise_pct": -68.99,
         "eps_last_q": 0.58,
         "eps_last_y": 2.57,
         "qoq": "-",
@@ -7456,7 +7456,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 314.5,
-        "gap": "11/12_2% 11/13_3%",
+        "gap": "11/10_3% 11/12_2%",
         "gross_margin": 43.35
     },
     {
@@ -7496,7 +7496,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 12.7,
-        "gap": "-",
+        "gap": "11/10_3%",
         "gross_margin": -32.71
     },
     {
@@ -7576,7 +7576,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 89.3,
-        "gap": "11/11_4% 11/13_-2%",
+        "gap": "11/11_4%",
         "gross_margin": 40.31
     },
     {
@@ -7596,7 +7596,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 82.4,
-        "gap": "11/12_3% 11/13_3%",
+        "gap": "11/10_4% 11/12_3%",
         "gross_margin": 31.89
     },
     {
@@ -7616,7 +7616,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 21.0,
-        "gap": "11/13_-3%",
+        "gap": "-",
         "gross_margin": 13.47
     },
     {
@@ -7636,7 +7636,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 838.0,
-        "gap": "11/11_2% 11/13_5%",
+        "gap": "11/10_5% 11/11_2%",
         "gross_margin": 41.04
     },
     {
@@ -7656,7 +7656,7 @@
         "qoq": 10.3,
         "yoy": 133.3,
         "price": 51.4,
-        "gap": "11/11_5% 11/13_2%",
+        "gap": "11/11_5%",
         "gross_margin": 13.41
     },
     {
@@ -7676,7 +7676,7 @@
         "qoq": 14.7,
         "yoy": 98.1,
         "price": 4970.0,
-        "gap": "11/12_3% 11/13_5%",
+        "gap": "11/10_7% 11/12_3%",
         "gross_margin": 61.68
     },
     {
@@ -7816,7 +7816,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 568.0,
-        "gap": "11/13_10%",
+        "gap": "11/10_8%",
         "gross_margin": 37.39
     },
     {
@@ -7836,7 +7836,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 80.6,
-        "gap": "11/11_3% 11/12_4% 11/13_6%",
+        "gap": "11/10_2% 11/11_3% 11/12_4%",
         "gross_margin": 13.97
     },
     {
@@ -7856,7 +7856,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 217.0,
-        "gap": "-",
+        "gap": "11/10_4%",
         "gross_margin": 37.93
     },
     {
@@ -7936,7 +7936,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 106.0,
-        "gap": "11/13_2%",
+        "gap": "-",
         "gross_margin": 22.27
     },
     {
@@ -7976,7 +7976,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 489.5,
-        "gap": "11/13_4%",
+        "gap": "11/10_10%",
         "gross_margin": 63.94
     },
     {
@@ -7996,7 +7996,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 3465.0,
-        "gap": "11/13_5%",
+        "gap": "11/10_4%",
         "gross_margin": 57.26
     },
     {
@@ -8016,7 +8016,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 993.0,
-        "gap": "11/13_4%",
+        "gap": "11/10_3%",
         "gross_margin": 36.93
     },
     {
@@ -8036,7 +8036,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 2785.0,
-        "gap": "11/13_5%",
+        "gap": "-",
         "gross_margin": 37.56
     },
     {
@@ -8056,7 +8056,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 1670.0,
-        "gap": "11/13_5%",
+        "gap": "11/10_5%",
         "gross_margin": 59.85
     },
     {
@@ -8076,7 +8076,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 103.0,
-        "gap": "11/13_3%",
+        "gap": "11/10_3%",
         "gross_margin": 33.95
     },
     {
@@ -8096,7 +8096,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 219.0,
-        "gap": "11/11_-5% 11/12_-2% 11/13_2%",
+        "gap": "11/11_-5% 11/12_-2%",
         "gross_margin": 23.55
     },
     {
@@ -8136,7 +8136,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 49.1,
-        "gap": "11/13_2%",
+        "gap": "-",
         "gross_margin": 23.98
     },
     {
@@ -8156,7 +8156,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 1760.0,
-        "gap": "-",
+        "gap": "11/10_7%",
         "gross_margin": 38.86
     },
     {
@@ -8216,7 +8216,7 @@
         "qoq": 21.1,
         "yoy": 96.2,
         "price": 124.0,
-        "gap": "11/13_3%",
+        "gap": "11/10_4%",
         "gross_margin": 37.28
     },
     {
@@ -8276,7 +8276,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 318.0,
-        "gap": "11/11_-3% 11/13_3%",
+        "gap": "11/11_-3%",
         "gross_margin": 49.45
     },
     {
@@ -8336,7 +8336,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 170.0,
-        "gap": "11/12_3% 11/13_2%",
+        "gap": "11/10_3% 11/12_3%",
         "gross_margin": 5.9
     },
     {
@@ -8356,7 +8356,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 1635.0,
-        "gap": "11/13_4%",
+        "gap": "11/10_3%",
         "gross_margin": 8.87
     },
     {
@@ -8376,7 +8376,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 920.0,
-        "gap": "11/12_4% 11/13_8%",
+        "gap": "11/10_3% 11/12_4%",
         "gross_margin": 50.17
     },
     {
@@ -8396,7 +8396,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 39.05,
-        "gap": "-",
+        "gap": "11/10_2%",
         "gross_margin": 14.77
     },
     {
@@ -8436,7 +8436,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 42.8,
-        "gap": "11/11_-3% 11/13_2%",
+        "gap": "11/11_-3%",
         "gross_margin": 56.7
     },
     {
@@ -8476,7 +8476,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 489.5,
-        "gap": "11/13_4%",
+        "gap": "11/10_10%",
         "gross_margin": 63.94
     },
     {
@@ -8496,7 +8496,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 4965.0,
-        "gap": "11/12_3% 11/13_5%",
+        "gap": "11/10_7% 11/12_3%",
         "gross_margin": 61.68
     },
     {
@@ -8536,7 +8536,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 1170.0,
-        "gap": "11/12_-2%",
+        "gap": "11/10_3% 11/12_-2%",
         "gross_margin": 25.65
     },
     {
@@ -8596,7 +8596,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 39.7,
-        "gap": "-",
+        "gap": "11/10_2%",
         "gross_margin": 22.44
     },
     {
@@ -8636,7 +8636,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 61.5,
-        "gap": "11/13_2%",
+        "gap": "-",
         "gross_margin": 34.82
     },
     {
@@ -8656,7 +8656,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 104.0,
-        "gap": "11/13_3%",
+        "gap": "-",
         "gross_margin": 24.12
     },
     {
@@ -8696,7 +8696,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 103.0,
-        "gap": "11/13_3%",
+        "gap": "11/10_3%",
         "gross_margin": 33.95
     },
     {
@@ -8716,7 +8716,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 303.0,
-        "gap": "11/13_3%",
+        "gap": "-",
         "gross_margin": 34.64
     },
     {
@@ -8736,7 +8736,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 26.55,
-        "gap": "11/11_3% 11/12_-6% 11/13_3%",
+        "gap": "11/10_-3% 11/11_3% 11/12_-6%",
         "gross_margin": 64.19
     },
     {
@@ -8776,7 +8776,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 14.45,
-        "gap": "-",
+        "gap": "11/10_2%",
         "gross_margin": 22.41
     },
     {
@@ -8796,7 +8796,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 489.5,
-        "gap": "11/13_4%",
+        "gap": "11/10_10%",
         "gross_margin": 63.94
     },
     {
@@ -8816,7 +8816,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 94.6,
-        "gap": "11/12_2% 11/13_4%",
+        "gap": "11/10_6% 11/12_2%",
         "gross_margin": 57.8
     },
     {
@@ -8836,7 +8836,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 47.5,
-        "gap": "11/11_2% 11/13_3%",
+        "gap": "11/10_3% 11/11_2%",
         "gross_margin": 8.55
     },
     {
@@ -8896,7 +8896,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 106.5,
-        "gap": "11/13_2%",
+        "gap": "11/10_3%",
         "gross_margin": 33.86
     },
     {
@@ -8956,7 +8956,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 55.7,
-        "gap": "11/12_2%",
+        "gap": "11/10_2% 11/12_2%",
         "gross_margin": 31.07
     },
     {
@@ -8996,7 +8996,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 1075.0,
-        "gap": "11/12_2% 11/13_7%",
+        "gap": "11/10_5% 11/12_2%",
         "gross_margin": 33.03
     },
     {
@@ -9076,7 +9076,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 489.5,
-        "gap": "11/13_4%",
+        "gap": "11/10_10%",
         "gross_margin": 63.94
     },
     {
@@ -9085,19 +9085,19 @@
         "yf_symbol": "1590.TW",
         "name": "亞德客-KY",
         "time": "盤後",
-        "market_cap": "2100.00億",
-        "pe": 20.18,
-        "pb": 3.83,
+        "market_cap": "2180.00億",
+        "pe": 20.95,
+        "pb": 3.98,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
-        "eps_last_q": 16.55,
-        "eps_last_y": 10.5,
+        "eps_last_q": 14.23,
+        "eps_last_y": 11.64,
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
         "gap": "-",
-        "gross_margin": 49.72
+        "gross_margin": 49.36
     },
     {
         "date": "2026-11-20",
@@ -9105,19 +9105,19 @@
         "yf_symbol": "6209.TW",
         "name": "今國光",
         "time": "盤後",
-        "market_cap": "136.97億",
-        "pe": 33.14,
-        "pb": 3.71,
+        "market_cap": "144.37億",
+        "pe": 34.93,
+        "pb": 3.91,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
-        "eps_last_q": 0.73,
-        "eps_last_y": 0.39,
+        "eps_last_q": 1.02,
+        "eps_last_y": 0.43,
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "11/13_3%",
-        "gross_margin": 25.42
+        "gap": "11/10_6%",
+        "gross_margin": 26.49
     },
     {
         "date": "2026-11-20",
@@ -9125,9 +9125,9 @@
         "yf_symbol": "1773.TW",
         "name": "勝一",
         "time": "盤後",
-        "market_cap": "441.00億",
-        "pe": 18.4,
-        "pb": 3.61,
+        "market_cap": "447.00億",
+        "pe": 18.65,
+        "pb": 3.66,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9165,9 +9165,9 @@
         "yf_symbol": "8924.TWO",
         "name": "大田",
         "time": "盤後",
-        "market_cap": "32.30億",
-        "pe": 5.99,
-        "pb": 0.84,
+        "market_cap": "33.60億",
+        "pe": 6.23,
+        "pb": 0.87,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9185,9 +9185,9 @@
         "yf_symbol": "6506.TWO",
         "name": "雙邦",
         "time": "盤後",
-        "market_cap": "15.28億",
-        "pe": 12.53,
-        "pb": 1.2,
+        "market_cap": "15.40億",
+        "pe": 12.64,
+        "pb": 1.21,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9200,14 +9200,134 @@
         "gross_margin": 15.27
     },
     {
+        "date": "2026-11-20",
+        "symbol": "1308",
+        "yf_symbol": "1308.TW",
+        "name": "亞聚",
+        "time": "盤後",
+        "market_cap": "76.30億",
+        "pe": 47.59,
+        "pb": 0.71,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": -0.26,
+        "eps_last_y": -0.6,
+        "qoq": "-",
+        "yoy": "-",
+        "price": NaN,
+        "gap": "-",
+        "gross_margin": -6.89
+    },
+    {
+        "date": "2026-11-20",
+        "symbol": "1304",
+        "yf_symbol": "1304.TW",
+        "name": "台聚",
+        "time": "盤後",
+        "market_cap": "122.24億",
+        "pe": -6.95,
+        "pb": 0.69,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": -0.52,
+        "eps_last_y": -0.75,
+        "qoq": "-",
+        "yoy": "-",
+        "price": NaN,
+        "gap": "-",
+        "gross_margin": -3.34
+    },
+    {
+        "date": "2026-11-20",
+        "symbol": "1309",
+        "yf_symbol": "1309.TW",
+        "name": "台達化",
+        "time": "盤後",
+        "market_cap": "46.52億",
+        "pe": -106.36,
+        "pb": 0.87,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": -0.62,
+        "eps_last_y": -0.14,
+        "qoq": "-",
+        "yoy": "-",
+        "price": NaN,
+        "gap": "-",
+        "gross_margin": -0.21
+    },
+    {
+        "date": "2026-11-20",
+        "symbol": "2207",
+        "yf_symbol": "2207.TW",
+        "name": "和泰車",
+        "time": "盤後",
+        "market_cap": "2935.93億",
+        "pe": 15.55,
+        "pb": 3.43,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 10.29,
+        "eps_last_y": 9.07,
+        "qoq": "-",
+        "yoy": "-",
+        "price": NaN,
+        "gap": "-",
+        "gross_margin": 22.19
+    },
+    {
+        "date": "2026-11-20",
+        "symbol": "5876",
+        "yf_symbol": "5876.TW",
+        "name": "上海商銀",
+        "time": "盤後",
+        "market_cap": "2615.93億",
+        "pe": 17.12,
+        "pb": 1.22,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 1.03,
+        "eps_last_y": 0.5,
+        "qoq": "-",
+        "yoy": "-",
+        "price": NaN,
+        "gap": "-",
+        "gross_margin": 70.28
+    },
+    {
+        "date": "2026-11-20",
+        "symbol": "8931",
+        "yf_symbol": "8931.TWO",
+        "name": "大汽電",
+        "time": "盤後",
+        "market_cap": "50.43億",
+        "pe": 31.25,
+        "pb": 2.42,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 0.56,
+        "eps_last_y": 0.03,
+        "qoq": "-",
+        "yoy": "-",
+        "price": NaN,
+        "gap": "-",
+        "gross_margin": 14.21
+    },
+    {
         "date": "2026-11-23",
         "symbol": "2890",
         "yf_symbol": "2890.TW",
         "name": "永豐金",
         "time": "盤後",
-        "market_cap": "6441.95億",
-        "pe": 22.53,
-        "pb": 2.41,
+        "market_cap": "6531.31億",
+        "pe": 22.84,
+        "pb": 2.45,
         "eps_est": 0.88,
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9225,9 +9345,9 @@
         "yf_symbol": "2353.TW",
         "name": "宏碁",
         "time": "盤中",
-        "market_cap": "892.84億",
-        "pe": 14.78,
-        "pb": 1.12,
+        "market_cap": "889.84億",
+        "pe": 14.73,
+        "pb": 1.11,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9245,8 +9365,8 @@
         "yf_symbol": "2901.TW",
         "name": "欣欣",
         "time": "盤後",
-        "market_cap": "18.11億",
-        "pe": 56.36,
+        "market_cap": "18.15億",
+        "pe": 56.48,
         "pb": 2.05,
         "eps_est": "-",
         "eps_reported": "-",
@@ -9256,7 +9376,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
-        "gap": "11/12_-2%",
+        "gap": "11/10_-2% 11/12_-2%",
         "gross_margin": 84.87
     },
     {
@@ -9265,19 +9385,59 @@
         "yf_symbol": "4190.TW",
         "name": "佐登-KY",
         "time": "盤後",
-        "market_cap": "13.25億",
-        "pe": 16.56,
-        "pb": 0.82,
+        "market_cap": "13.10億",
+        "pe": 16.37,
+        "pb": 0.81,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
-        "eps_last_q": -0.79,
-        "eps_last_y": -0.57,
+        "eps_last_q": -0.74,
+        "eps_last_y": 0.21,
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
         "gap": "-",
-        "gross_margin": 62.55
+        "gross_margin": 64.46
+    },
+    {
+        "date": "2026-11-23",
+        "symbol": "3529",
+        "yf_symbol": "3529.TWO",
+        "name": "力旺",
+        "time": "盤中",
+        "market_cap": "-",
+        "pe": 73.68,
+        "pb": 42.32,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 8.56,
+        "eps_last_y": 7.54,
+        "qoq": "-",
+        "yoy": "-",
+        "price": NaN,
+        "gap": "11/10_5%",
+        "gross_margin": 100.0
+    },
+    {
+        "date": "2026-11-23",
+        "symbol": "4533",
+        "yf_symbol": "4533.TWO",
+        "name": "協易機",
+        "time": "盤後",
+        "market_cap": "52.18億",
+        "pe": 55.42,
+        "pb": 2.05,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": -0.07,
+        "eps_last_y": 0.31,
+        "qoq": "-",
+        "yoy": "-",
+        "price": NaN,
+        "gap": "-",
+        "gross_margin": 17.96
     },
     {
         "date": "2026-11-24",
@@ -9285,19 +9445,19 @@
         "yf_symbol": "1590.TW",
         "name": "亞德客-KY",
         "time": "盤中",
-        "market_cap": "2100.00億",
-        "pe": 20.18,
-        "pb": 3.83,
+        "market_cap": "2180.00億",
+        "pe": 20.95,
+        "pb": 3.98,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
-        "eps_last_q": 16.55,
-        "eps_last_y": 10.5,
+        "eps_last_q": 14.23,
+        "eps_last_y": 11.64,
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
         "gap": "-",
-        "gross_margin": 49.72
+        "gross_margin": 49.36
     },
     {
         "date": "2026-11-24",
@@ -9305,9 +9465,9 @@
         "yf_symbol": "2301.TW",
         "name": "光寶科",
         "time": "盤中",
-        "market_cap": "5173.56億",
-        "pe": 23.46,
-        "pb": 5.22,
+        "market_cap": "5252.97億",
+        "pe": 23.82,
+        "pb": 5.3,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9325,9 +9485,9 @@
         "yf_symbol": "2886.TW",
         "name": "兆豐金",
         "time": "盤後",
-        "market_cap": "8069.36億",
-        "pe": 23.05,
-        "pb": 2.01,
+        "market_cap": "8217.69億",
+        "pe": 23.47,
+        "pb": 2.04,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9345,9 +9505,9 @@
         "yf_symbol": "2395.TW",
         "name": "研華",
         "time": "盤後",
-        "market_cap": "5258.65億",
-        "pe": 30.69,
-        "pb": 8.37,
+        "market_cap": "5302.26億",
+        "pe": 30.94,
+        "pb": 8.44,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9365,9 +9525,9 @@
         "yf_symbol": "8464.TW",
         "name": "億豐",
         "time": "盤中",
-        "market_cap": "1024.11億",
-        "pe": 14.94,
-        "pb": 3.34,
+        "market_cap": "1050.48億",
+        "pe": 15.32,
+        "pb": 3.43,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9385,9 +9545,9 @@
         "yf_symbol": "3231.TW",
         "name": "緯創",
         "time": "盤中",
-        "market_cap": "5830.73億",
-        "pe": 14.62,
-        "pb": 3.04,
+        "market_cap": "5865.03億",
+        "pe": 14.7,
+        "pb": 2.06,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9405,9 +9565,9 @@
         "yf_symbol": "6274.TWO",
         "name": "台燿",
         "time": "盤中",
-        "market_cap": "2862.84億",
-        "pe": 49.23,
-        "pb": 10.18,
+        "market_cap": "2916.74億",
+        "pe": 50.15,
+        "pb": 10.37,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9425,19 +9585,19 @@
         "yf_symbol": "7717.TWO",
         "name": "萊德光電-KY",
         "time": "盤後",
-        "market_cap": "110.26億",
-        "pe": 61.04,
-        "pb": 10.56,
+        "market_cap": "121.29億",
+        "pe": 67.15,
+        "pb": 11.62,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
-        "eps_last_q": 2.77,
-        "eps_last_y": 1.45,
+        "eps_last_q": 2.33,
+        "eps_last_y": 1.55,
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
         "gap": "-",
-        "gross_margin": 63.94
+        "gross_margin": 68.59
     },
     {
         "date": "2026-11-24",
@@ -9445,7 +9605,7 @@
         "yf_symbol": "6616.TWO",
         "name": "特昇-KY",
         "time": "盤後",
-        "market_cap": "2.98億",
+        "market_cap": "3.00億",
         "pe": "-",
         "pb": 0.7,
         "eps_est": "-",
@@ -9457,7 +9617,87 @@
         "yoy": "-",
         "price": NaN,
         "gap": "-",
-        "gross_margin": 10.32
+        "gross_margin": 16.04
+    },
+    {
+        "date": "2026-11-24",
+        "symbol": "2382",
+        "yf_symbol": "2382.TW",
+        "name": "廣達",
+        "time": "盤中",
+        "market_cap": "1.13兆",
+        "pe": 12.53,
+        "pb": 3.29,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 7.08,
+        "eps_last_y": 5.75,
+        "qoq": "-",
+        "yoy": "-",
+        "price": NaN,
+        "gap": "-",
+        "gross_margin": 4.75
+    },
+    {
+        "date": "2026-11-24",
+        "symbol": "3529",
+        "yf_symbol": "3529.TWO",
+        "name": "力旺",
+        "time": "盤中",
+        "market_cap": "-",
+        "pe": 73.68,
+        "pb": 42.32,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 8.56,
+        "eps_last_y": 7.54,
+        "qoq": "-",
+        "yoy": "-",
+        "price": NaN,
+        "gap": "-",
+        "gross_margin": 100.0
+    },
+    {
+        "date": "2026-11-24",
+        "symbol": "3481",
+        "yf_symbol": "3481.TW",
+        "name": "群創",
+        "time": "盤中",
+        "market_cap": "3188.43億",
+        "pe": 51.22,
+        "pb": 1.42,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": 0.96,
+        "eps_last_y": 0.0,
+        "qoq": "-",
+        "yoy": "-",
+        "price": NaN,
+        "gap": "-",
+        "gross_margin": 14.85
+    },
+    {
+        "date": "2026-11-24",
+        "symbol": "3552",
+        "yf_symbol": "3552.TWO",
+        "name": "同致",
+        "time": "盤後",
+        "market_cap": "30.84億",
+        "pe": 4.7,
+        "pb": 0.7,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": -2.12,
+        "eps_last_y": 0.29,
+        "qoq": "-",
+        "yoy": "-",
+        "price": NaN,
+        "gap": "-",
+        "gross_margin": 7.16
     },
     {
         "date": "2026-11-25",
@@ -9465,14 +9705,14 @@
         "yf_symbol": "2801.TW",
         "name": "彰銀",
         "time": "盤後",
-        "market_cap": "3425.10億",
-        "pe": 18.68,
-        "pb": 1.49,
+        "market_cap": "3497.46億",
+        "pe": 19.08,
+        "pb": 1.52,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
-        "eps_last_q": 0.51,
-        "eps_last_y": 0.42,
+        "eps_last_q": 0.5,
+        "eps_last_y": 0.31,
         "qoq": "-",
         "yoy": "-",
         "price": NaN,
@@ -9485,9 +9725,9 @@
         "yf_symbol": "6955.TW",
         "name": "邦睿生技-創",
         "time": "盤後",
-        "market_cap": "26.98億",
-        "pe": 25.07,
-        "pb": 4.07,
+        "market_cap": "27.35億",
+        "pe": 25.41,
+        "pb": 4.13,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9505,9 +9745,9 @@
         "yf_symbol": "1560.TW",
         "name": "中砂",
         "time": "盤後",
-        "market_cap": "1053.53億",
-        "pe": 59.76,
-        "pb": 10.15,
+        "market_cap": "1103.41億",
+        "pe": 61.89,
+        "pb": 10.51,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9525,9 +9765,9 @@
         "yf_symbol": "1101.TW",
         "name": "台泥",
         "time": "盤後",
-        "market_cap": "2034.40億",
-        "pe": 20.26,
-        "pb": 0.86,
+        "market_cap": "2049.39億",
+        "pe": 20.41,
+        "pb": 0.87,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9537,7 +9777,7 @@
         "yoy": "-",
         "price": NaN,
         "gap": "-",
-        "gross_margin": 17.79
+        "gross_margin": 19.98
     },
     {
         "date": "2026-11-25",
@@ -9565,9 +9805,9 @@
         "yf_symbol": "2880.TW",
         "name": "華南金",
         "time": "盤後",
-        "market_cap": "7075.26億",
-        "pe": 26.86,
-        "pb": 2.94,
+        "market_cap": "7271.41億",
+        "pe": 27.61,
+        "pb": 3.02,
         "eps_est": 0.68,
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9575,7 +9815,7 @@
         "eps_last_y": 0.58,
         "qoq": -2.9,
         "yoy": 17.2,
-        "price": 50.5,
+        "price": NaN,
         "gap": "-",
         "gross_margin": 42.17
     },
@@ -9585,9 +9825,9 @@
         "yf_symbol": "2432.TW",
         "name": "倚天酷碁-創",
         "time": "盤後",
-        "market_cap": "17.26億",
-        "pe": 13.22,
-        "pb": 1.43,
+        "market_cap": "17.44億",
+        "pe": 11.33,
+        "pb": 1.45,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9595,7 +9835,7 @@
         "eps_last_y": 0.92,
         "qoq": "-",
         "yoy": "-",
-        "price": 27.9,
+        "price": NaN,
         "gap": "-",
         "gross_margin": 10.12
     },
@@ -9605,19 +9845,19 @@
         "yf_symbol": "1323.TW",
         "name": "永裕",
         "time": "盤後",
-        "market_cap": "19.85億",
-        "pe": 17.26,
-        "pb": 0.75,
+        "market_cap": "20.03億",
+        "pe": 17.42,
+        "pb": 0.76,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
         "eps_last_q": 0.66,
-        "eps_last_y": 0.05,
+        "eps_last_y": 0.2,
         "qoq": "-",
         "yoy": "-",
-        "price": 21.75,
+        "price": NaN,
         "gap": "-",
-        "gross_margin": 21.08
+        "gross_margin": 22.18
     },
     {
         "date": "2026-11-26",
@@ -9625,9 +9865,9 @@
         "yf_symbol": "6908.TW",
         "name": "宏碁遊戲-創",
         "time": "盤後",
-        "market_cap": "8.40億",
-        "pe": 565.0,
-        "pb": 0.66,
+        "market_cap": "8.11億",
+        "pe": 545.0,
+        "pb": 0.64,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9635,7 +9875,7 @@
         "eps_last_y": 0.39,
         "qoq": "-",
         "yoy": "-",
-        "price": 22.6,
+        "price": NaN,
         "gap": "-",
         "gross_margin": 11.29
     },
@@ -9645,17 +9885,17 @@
         "yf_symbol": "2834.TW",
         "name": "臺企銀",
         "time": "盤後",
-        "market_cap": "1824.91億",
-        "pe": 14.5,
-        "pb": 1.18,
+        "market_cap": "1835.30億",
+        "pe": 14.59,
+        "pb": 1.19,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
-        "eps_last_q": 0.38,
-        "eps_last_y": 0.35,
+        "eps_last_q": 0.39,
+        "eps_last_y": 0.25,
         "qoq": "-",
         "yoy": "-",
-        "price": 17.55,
+        "price": NaN,
         "gap": "-",
         "gross_margin": 58.83
     },
@@ -9665,9 +9905,9 @@
         "yf_symbol": "3532.TW",
         "name": "台勝科",
         "time": "盤後",
-        "market_cap": "1128.64億",
-        "pe": 225.58,
-        "pb": 4.65,
+        "market_cap": "1144.15億",
+        "pe": 228.68,
+        "pb": 4.71,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9675,9 +9915,9 @@
         "eps_last_y": 0.78,
         "qoq": "-",
         "yoy": "-",
-        "price": 291.0,
+        "price": NaN,
         "gap": "-",
-        "gross_margin": 6.9
+        "gross_margin": 10.21
     },
     {
         "date": "2026-11-26",
@@ -9685,9 +9925,9 @@
         "yf_symbol": "3017.TW",
         "name": "奇鋐",
         "time": "盤後",
-        "market_cap": "1.09兆",
-        "pe": 37.56,
-        "pb": 24.31,
+        "market_cap": "1.19兆",
+        "pe": 41.14,
+        "pb": 17.75,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9695,7 +9935,7 @@
         "eps_last_y": 16.92,
         "qoq": "-",
         "yoy": "-",
-        "price": 2775.0,
+        "price": NaN,
         "gap": "-",
         "gross_margin": 33.86
     },
@@ -9705,19 +9945,19 @@
         "yf_symbol": "3706.TW",
         "name": "神達",
         "time": "盤後",
-        "market_cap": "953.34億",
-        "pe": 12.93,
-        "pb": 1.25,
+        "market_cap": "970.86億",
+        "pe": 13.17,
+        "pb": 1.27,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
-        "eps_last_q": 1.48,
-        "eps_last_y": 1.55,
+        "eps_last_q": 1.42,
+        "eps_last_y": 1.47,
         "qoq": "-",
         "yoy": "-",
-        "price": 65.3,
+        "price": NaN,
         "gap": "-",
-        "gross_margin": 9.15
+        "gross_margin": 9.56
     },
     {
         "date": "2026-11-26",
@@ -9725,19 +9965,19 @@
         "yf_symbol": "7821.TW",
         "name": "神數",
         "time": "盤後",
-        "market_cap": "38.16億",
-        "pe": 9.6,
-        "pb": 1.42,
+        "market_cap": "38.77億",
+        "pe": 9.75,
+        "pb": 1.44,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
-        "eps_last_q": 0.47,
-        "eps_last_y": 0.85,
+        "eps_last_q": 1.04,
+        "eps_last_y": 1.23,
         "qoq": "-",
         "yoy": "-",
-        "price": 31.3,
+        "price": NaN,
         "gap": "-",
-        "gross_margin": 20.66
+        "gross_margin": 19.75
     },
     {
         "date": "2026-11-26",
@@ -9745,9 +9985,9 @@
         "yf_symbol": "3310.TWO",
         "name": "佳穎",
         "time": "盤後",
-        "market_cap": "41.64億",
-        "pe": 25.6,
-        "pb": 2.57,
+        "market_cap": "40.88億",
+        "pe": 25.14,
+        "pb": 2.52,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -9755,7 +9995,7 @@
         "eps_last_y": 0.46,
         "qoq": "-",
         "yoy": "-",
-        "price": 66.3,
+        "price": NaN,
         "gap": "-",
         "gross_margin": 17.35
     },
