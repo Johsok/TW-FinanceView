@@ -15129,7 +15129,7 @@
         "pe": 19.73,
         "pb": 1.74,
         "eps_est": 0.58,
-        "eps_reported": "-",
+        "eps_reported": 0.59,
         "surprise_pct": "-",
         "eps_last_q": 0.58,
         "eps_last_y": 0.5,
@@ -15776,7 +15776,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 25.8,
-        "gap": "11/24_4%",
+        "gap": "-",
         "gross_margin": 57.27
     },
     {
@@ -16716,7 +16716,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 81.7,
-        "gap": "11/24_7%",
+        "gap": "-",
         "gross_margin": 67.22
     },
     {
@@ -16896,7 +16896,7 @@
         "qoq": "-",
         "yoy": "-",
         "price": 124.0,
-        "gap": "11/24_2% 11/26_-2%",
+        "gap": "11/26_-2% 11/27_3%",
         "gross_margin": 29.83
     },
     {
@@ -18065,9 +18065,9 @@
         "yf_symbol": "1595.TWO",
         "name": "川寶",
         "time": "盤後",
-        "market_cap": "28.57億",
+        "market_cap": "29.32億",
         "pe": "-",
-        "pb": 0.98,
+        "pb": 1.01,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -18075,7 +18075,7 @@
         "eps_last_y": -0.14,
         "qoq": "-",
         "yoy": "-",
-        "price": 49.5,
+        "price": 50.8,
         "gap": "-",
         "gross_margin": 22.52
     },
@@ -18085,9 +18085,9 @@
         "yf_symbol": "1590.TW",
         "name": "亞德客-KY",
         "time": "盤後",
-        "market_cap": "1962.00億",
-        "pe": 17.6,
-        "pb": 3.38,
+        "market_cap": "1970.00億",
+        "pe": 17.67,
+        "pb": 3.39,
         "eps_est": "-",
         "eps_reported": "-",
         "surprise_pct": "-",
@@ -18095,8 +18095,28 @@
         "eps_last_y": 11.64,
         "qoq": "-",
         "yoy": "-",
-        "price": 981.0,
+        "price": 985.0,
         "gap": "-",
         "gross_margin": 49.36
+    },
+    {
+        "date": "2026-12-17",
+        "symbol": "6785",
+        "yf_symbol": "6785.TWO",
+        "name": "昱展新藥",
+        "time": "盤後",
+        "market_cap": "45.42億",
+        "pe": "-",
+        "pb": 1.89,
+        "eps_est": "-",
+        "eps_reported": "-",
+        "surprise_pct": "-",
+        "eps_last_q": -0.17,
+        "eps_last_y": -0.38,
+        "qoq": "-",
+        "yoy": "-",
+        "price": 68.0,
+        "gap": "-",
+        "gross_margin": 88.4
     }
 ]
